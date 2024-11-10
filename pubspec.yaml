@@ -1,0 +1,159 @@
+name: roboti_app
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+4
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_svg: ^2.0.9
+
+  #state management
+  flutter_bloc: ^8.1.3
+  bloc: ^8.1.2
+
+  #dependency injection flutter
+  get_it: ^7.6.4
+
+  #for network apis
+  http: ^1.1.2
+
+  #save data locally
+  shared_preferences: ^2.2.2
+
+  #Package used for Otp Input field
+  pin_code_fields: ^8.0.1
+
+  #Packages used for auto changing banners dots animation of home page
+  smooth_page_indicator: ^1.1.0
+  # carousel_slider: ^4.2.1
+  carousel_slider: ^5.0.0
+  flutter_widget_from_html: ^0.14.11
+
+  #firebase packages for social login
+  firebase_core: ^2.25.4
+  google_sign_in: ^6.2.1
+  google_sign_in_ios: ^5.7.3
+  firebase_auth: ^4.17.4
+  the_apple_sign_in: ^1.1.1
+
+  #for intenet connectivity
+  connectivity_plus: ^5.0.2
+
+  # Used to display short toast messages
+  fluttertoast: ^8.2.4
+
+  dartz: ^0.10.1
+
+  # Package used to fetch the device Id required in the authentication module
+  device_info_plus: ^9.1.1
+
+  cupertino_icons: ^1.0.2
+
+  country_picker: ^2.0.24
+  animated_text_kit: ^4.2.2
+  skeletonizer: ^1.0.1
+  share_plus: ^7.2.2
+  clipboard: ^0.1.3
+  lottie: ^3.1.2
+
+  #image functionalities
+  image_picker: ^1.0.7
+  permission_handler: ^11.3.0
+  app_settings: ^5.1.1
+  flutter_dotenv: ^5.1.0
+  # intl: ^0.18.0  
+  # intl: ^0.18.1
+  intl: any
+
+  package_info_plus: ^5.0.1
+  cached_network_image: ^3.3.1
+
+  # flutter_localizations: 
+  #   sdk: flutter
+  flutter_localization: ^0.2.1
+  # firebase_dynamic_links: ^5.4.17
+  firebase_messaging: ^14.7.19
+
+  # For congratulations animation
+  confetti: ^0.7.0
+
+
+  # payment dependencies
+  # purchases_flutter: ^6.29.0 
+  purchases_flutter: ^6.30.2
+
+  # For Force Update
+  url_launcher: ^6.3.0
+
+  # Path Provider
+  path_provider: ^2.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  generate: true
+
+  uses-material-design: true
+
+  fonts:
+  - family: aeonik
+    fonts:
+    - asset: assets/fonts/Aeonik_font_EN/AeonikPro-Black.otf
+    - asset: assets/fonts/Aeonik_font_EN/AeonikPro-Bold.otf
+    - asset: assets/fonts/Aeonik_font_EN/AeonikPro-Medium.otf
+    - asset: assets/fonts/Aeonik_font_EN/AeonikPro-Regular.otf
+
+
+  assets:
+  - assets/images/
+  - assets/images/icons/drawer/
+  - assets/images/icons/ 
+  - assets/images/icons/btm_navbar_icons/
+  - assets/images/icons/social_icons/
+  - assets/images/icons/flag/
+  - assets/images/splash/
+  - assets/images/banners/
+  - assets/lottie/
+  - .env
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

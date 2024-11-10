@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "project_number": "124684460884",
+    "project_id": "roboti-57979",
+    "storage_bucket": "roboti-57979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124684460884:android:b8f4d5b9354f96907e1ec1",
+        "android_client_info": {
+          "package_name": "com.app.roboti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124684460884-dqgahu8rppjre0m6ooe2t7ea54hm5ia8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.roboti",
+            "certificate_hash": "0eda4db9b6159a73258af52bc85dadcce54d214a"
+          }
+        },
+        {
+          "client_id": "124684460884-k5idab6pc85godijjm1s67h87sl8afbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.roboti",
+            "certificate_hash": "0dd145fba151c30f7f42553ed0361af08fc47549"
+          }
+        },
+        {
+          "client_id": "124684460884-rsphni7nl2p3tvgkglq0c8osih2prk8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.roboti",
+            "certificate_hash": "576a7e81a60bb509bebe55e0946633e7473ad1e4"
+          }
+        },
+        {
+          "client_id": "124684460884-nlc91dfsa9j657mntgrkr7dn5cue6dcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTeTRtUsXN-2kmijDUOO0thUdPkoy7pKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124684460884-nlc91dfsa9j657mntgrkr7dn5cue6dcr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124684460884-5csvahfa1oubaa384kkshrps22ivh3a6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.roboti"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124684460884:android:e33fef13afee39b37e1ec1",
+        "android_client_info": {
+          "package_name": "com.app.robotiai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124684460884-nlc91dfsa9j657mntgrkr7dn5cue6dcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTeTRtUsXN-2kmijDUOO0thUdPkoy7pKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124684460884-nlc91dfsa9j657mntgrkr7dn5cue6dcr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124684460884-5csvahfa1oubaa384kkshrps22ivh3a6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.roboti"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124684460884:android:a392e0d31b91e93d7e1ec1",
+        "android_client_info": {
+          "package_name": "com.example.roboti_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124684460884-kpi72tbs2s8g7741jfec85kecdvngtr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roboti_app",
+            "certificate_hash": "0eda4db9b6159a73258af52bc85dadcce54d214a"
+          }
+        },
+        {
+          "client_id": "124684460884-nlc91dfsa9j657mntgrkr7dn5cue6dcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTeTRtUsXN-2kmijDUOO0thUdPkoy7pKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124684460884-nlc91dfsa9j657mntgrkr7dn5cue6dcr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "124684460884-5csvahfa1oubaa384kkshrps22ivh3a6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.roboti"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+enum HistoryType { chat, completion }

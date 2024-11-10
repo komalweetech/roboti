@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20.639" viewBox="0 0 20 20.639">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_68" data-name="Rectangle 68" width="20" height="20.639" fill="none" stroke="#2575fc" stroke-width="1.85"/>
+    </clipPath>
+  </defs>
+  <g id="Group_64" data-name="Group 64" transform="translate(0 0)">
+    <g id="Group_63" data-name="Group 63" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <circle id="Ellipse_9" data-name="Ellipse 9" cx="8.596" cy="8.596" r="8.596" transform="translate(1.403 2.641)" fill="none" stroke="#2575fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.85"/>
+      <line id="Line_27" data-name="Line 27" y1="2.708" x2="3.224" transform="translate(0.806 0.806)" fill="none" stroke="#2575fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.85"/>
+      <line id="Line_28" data-name="Line 28" x1="3.224" y1="2.708" transform="translate(15.97 0.813)" fill="none" stroke="#2575fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.85"/>
+      <path id="Path_140" data-name="Path 140" d="M9.054,6.888v4.445l3.493,2.129" transform="translate(0.676 0.514)" fill="none" stroke="#67ff66" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.85"/>
+    </g>
+  </g>
+</svg>

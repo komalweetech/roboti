@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "roboti_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "roboti_app (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "roboti_app (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Flutter (TECNO KF8)",
+            "request": "launch",
+            "type": "dart",
+            "deviceId": "TECNO KF8",
+            "flutterMode": "debug",
+            "cwd": "${workspaceFolder}",
+            "args": [
+                "--no-sound-null-safety"
+            ]
+        }
+    ]
+}

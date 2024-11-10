@@ -1,0 +1,46 @@
+// Completion = {
+//     "type": "completion", // This value is static it will be completion for completion payload and chat for chat payload
+//     "category_info": {
+//         "id": "laksjdflkjsadf",
+//         "title": "Gmail",
+//         "translatedName": "Arabic"
+//     },
+//     "task_info": {
+//         "id": "laksjdflkjsadf",
+//         "title": "Gmail",
+//         "translatedName": "Arabic"
+//     },
+//     "form_info": {
+//         "form_id": "aksdfkasjdhfkjs",
+//         "tone": "String",
+//         "image_url": "Stirng",
+//         "length": "Length",
+//         "prompt": "Base Prompt",
+//         "fields_info": [
+//             {
+//                 "field_id": "alsdjflkasdjfk",
+//                 "user_input": "alsdfjklkasjdf sadfm,sadflksadf asdf"
+//             }
+//         ]
+//     },
+//     "model_responses": [
+//         {
+//             "role": "string",
+//             "content": "Content",
+//             "translation": "translatedContent",
+//             "rating": "0-5 a number",
+//         },
+//     ]
+// }
+
+
+// Chat = {
+//     "type": "chat", // This value is static for chat only (i-e, It is basically the paylaod identifier)
+//     "model_responses": [
+//         // Here we have a condition, If the response type is "text"
+//         {
+//             "type": "text",
+//             "text": "message",
+//         }
+//     ],
+// }
